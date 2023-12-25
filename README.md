@@ -6,3 +6,5 @@ This GitHub repository presents a mobile robot simulation featuring a rudimentar
 - **Simulation Environment:** Explore a simulated environment where a mobile robot navigates and maps its surroundings.
 
 - **Rudimentary SLAM:** The simulation incorporates a basic SLAM implementation, allowing the robot to simultaneously localize itself and create a map of its environment.
+
+https://github.com/Nathan7577/Mobile-Robot-Simulation/assets/140115590/7388fd1f-a49e-46eb-9ad2-c271f7edb91f
