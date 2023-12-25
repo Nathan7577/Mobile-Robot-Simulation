@@ -5,6 +5,8 @@ This GitHub repository presents a mobile robot simulation featuring a rudimentar
 ## Key Features:
 - **Simulation Environment:** Explore a simulated environment where a mobile robot navigates and maps its surroundings.
 
+- **Interactive Simulation:** The drive the robot around the  an intuitive interactive user interface, allowing users to specify the starting and ending positions, along with the desired direction for the car's trajectory.
+- 
 - **Rudimentary SLAM:** The simulation incorporates a basic SLAM implementation, allowing the robot to simultaneously localize itself and create a map of its environment.
 
-https://github.com/Nathan7577/Mobile-Robot-Simulation/assets/140115590/7388fd1f-a49e-46eb-9ad2-c271f7edb91f
+https://github.com/Nathan7577/Mobile-Robot-Simulation/assets/140115590/8a848b68-6399-42e8-abea-9af50afea568
